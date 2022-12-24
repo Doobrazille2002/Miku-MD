@@ -14,7 +14,7 @@ global.BotName = "Zille"
 global.packname = "Zille bot"
 global.author = "By: Doobie"
 global.OwnerName = "Doobie"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
+global.BotSourceCode = "https://github.com/Doobrazille2002/Miku-MD" // -- Please don't change -- //
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
